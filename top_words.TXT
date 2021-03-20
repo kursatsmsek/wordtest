@@ -165,3 +165,7 @@ hediye=present
 temel/ilk=elemantary
 yeterli=enough
 düşmek/sonbahar=fall 
+dengeli=balanced
+başarı=accomplishment
+yetenek=ability
+sabit=constant
